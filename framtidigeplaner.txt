@@ -4,3 +4,11 @@ Hva som kan vere lurt å luke ut:
 - Datoer vaierer på om dag/månad er først
 - Gjentagende tall/bokstav 
 - Slike reviews: bONrLOhVHXv1OWs3QNLpClkvVejJER15WmFCpPvJeJ4VSMrJ4XtwLxhC7uYvjzEaAtdBVOYycSJ4sXuy4hR3sx
+
+
+
+Planer for ulike modeller på oppgave 1:
+- sklearn (random forest?)
+- Logostic regression
+- Neural network (tensorflow/keras)
+- naive bayes
