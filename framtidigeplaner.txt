@@ -1,3 +1,6 @@
 Hva som kan vere lurt å luke ut:
 - Reviews hvor det er ett ord som blir gjentatt flere ganger
 - Korte reviews (2-4ord)
+- Datoer vaierer på om dag/månad er først
+- Gjentagende tall/bokstav 
+- Slike reviews: bONrLOhVHXv1OWs3QNLpClkvVejJER15WmFCpPvJeJ4VSMrJ4XtwLxhC7uYvjzEaAtdBVOYycSJ4sXuy4hR3sx
