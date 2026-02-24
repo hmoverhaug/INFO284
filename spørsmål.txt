@@ -1,0 +1,9 @@
+
+
+Har du noe tips til hvilke modeller som kan være relevante for del to av oppgaven hvis du kan svare på det? 
+har tenkt litt på disse:
+- sklearn (random forest?)
+- Logistic regression
+- Neural network (tensorflow/keras)
+- naive bayes
+
