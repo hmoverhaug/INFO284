@@ -9,6 +9,6 @@ Hva som kan vere lurt å luke ut:
 
 Planer for ulike modeller på oppgave 1:
 - sklearn (random forest?)
-- Logostic regression
+- Logistic regression
 - Neural network (tensorflow/keras)
 - naive bayes
