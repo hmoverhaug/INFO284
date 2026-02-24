@@ -1,0 +1,3 @@
+Hva som kan vere lurt å luke ut:
+- Reviews hvor det er ett ord som blir gjentatt flere ganger
+- Korte reviews (2-4ord)
