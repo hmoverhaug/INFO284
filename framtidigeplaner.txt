@@ -12,3 +12,9 @@ Planer for ulike modeller på oppgave 1:
 - Logistic regression
 - Neural network (tensorflow/keras)
 - naive bayes
+
+Pre processing:
+- Tokenization - gjøre om tekst til en liste av ord
+- Case Normalisation - gjøre alle ord om til liten tekst for å gjøre den mer uniform 
+- Stop words - vanlig brukte ord som brukes ofte, men som ikke gir stor betydning til budskapet. F.eks.: 'And', 'for', 'in', 'to', 'of'
+- Er som regel de lengre tilbakemeldingene som er de som har høyest helpful-score, med unntak av de anmeldelsene som har ett gjentagende ord og de som inneholder tilfeldig sammensetting av ord.
