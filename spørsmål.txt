@@ -23,3 +23,19 @@ For the LSTM model we use tokenizer. The text is converted to sequences of numbe
 Finaly, we weighted the classes, because of the imbalance of ratings. Rating 2, 3 and 4 receive a higher weight, than 1 and 5. This is used on the logistic regression model to make it pay more attention to the minority classes in training. 
 
 
+The models we chose for the task are Logistic Regression, Naïve Bayes, Random Forest and Long Short-Term Memory (LSTM). 
+This is done by using sentiment analysis, with the task of figuring out whether a review is negative or positive based on the expressions in the texts (Müller & Guido, 2016, p. 325). 
+To get a good linear baseline we started with Logistic Regression and Naïve Bayes models. 
+Both are well suited due to them being fast and easy to interpret (Müller & Guido, 2016, p. 127). 
+Random Forest on the other hand is a non-linear ensemble model that trains different trees before merging them together and giving a result based on the decision trees (Géron, 2019, p. 173). 
+Long Short-Term Memory is an even more complex deep learning method designed for sequential data (Hochreiter & Schmidhuber, 1997). 
+Due to the sequential data the LSTM model can recognise the order of the words, which separates it from the other three models. 
+Having four different models grants us the opportunity to review how different methods deliver different or similar results. 
+
+
+
+A Logistic Regression model adds up negative and positive words to create an overall polarity. 
+Linear models like Logistic Regression are well suited for the type of text data we see in the reviews.csv dataset (Müller & Guido, 2016, p. 332). 
+To limit the risk of overfitting we used L2 regularization with the default parameter C=1.0, which ensures the coefficients don’t get too large (Géron, 2019, p. 27). 
+To ensure the model converges on the input we used max_iter=1000. In turn this prevents the model from memorizing the training data. 
+Due to the data being so imbalanced the predicted results are mainly 1 and 5, with an accuracy of 64%. 
