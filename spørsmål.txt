@@ -39,3 +39,11 @@ Linear models like Logistic Regression are well suited for the type of text data
 To limit the risk of overfitting we used L2 regularization with the default parameter C=1.0, which ensures the coefficients don’t get too large (Géron, 2019, p. 27). 
 To ensure the model converges on the input we used max_iter=1000. In turn this prevents the model from memorizing the training data. 
 Due to the data being so imbalanced the predicted results are mainly 1 and 5, with an accuracy of 64%. 
+
+
+
+A Random Forest model creates a more robust classifier by combining different trained decision trees (Géron, 2019, p. 173). 
+To gather more similar results and stable predictions we set the n_estimators=200 instead of a lower number, because higher numbers cause smoother boundaries (Müller & Guido, 2016, p. 84-85). 
+To further reduce the danger of overfitting the model we set the parameter of max_depth=30 while allowing the trees to model the word interactions. 
+Despite these measures the model only achieves a 63% accuracy with predictions almost solely in the classes 1 and 5. 
+This matches what Müller and Guido state about Random Forest performing poorly on high-dimensional sparse text data (Müller & Guido, 2016, p. 128).
