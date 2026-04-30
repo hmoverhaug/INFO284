@@ -30,3 +30,8 @@ Sharma, N. (2023, June 10). Understanding and Applying F1 Score: AI Evaluation E
 Shrestha, S. (2025, June 9). A simple understanding of stopwords in NLP. Medium. https://medium.com/@shishiradhikari444/a-simple-understanding-of-stopwords-in-nlp-dd24e36fd228
 
 
+Use of AI:
+Deepseek (DeepSeek, 2026) and Claude (Anthropic, 2026) were used for assisting with debugging, 
+figures and tables. The AI tools helped with better understanding of the models that were used, 
+but the core model codes with parameters are original. The reflections of the analysis and comparison 
+are original.
