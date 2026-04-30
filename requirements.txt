@@ -1,4 +1,4 @@
-List of 
+List of libraries used in the submission:
 
 scikit-learn
 numpy
