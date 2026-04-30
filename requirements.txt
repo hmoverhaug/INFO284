@@ -1,10 +1,11 @@
-Here we shall write down the libaries that we have used
+List of 
 
-pip install scikit-learn
-pip install numpy
-pip install matplotlib
-pip install plotly
-pip install tensorflow
-pip install seaborn
-pip install pandas
+scikit-learn
+numpy
+matplotlib
+plotly
+tensorflow
+seaborn
+pandas
+torch
 
