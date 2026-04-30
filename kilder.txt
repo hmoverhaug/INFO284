@@ -18,3 +18,15 @@ Müller, Andreas C., og Sarah Guido. Introduction to Machine Learning with Pytho
 
 Rennie, J. D., Shih, L., Teevan, J., & Karger, D. R. (2003). 
 Tackling the poor assumptions of naive Bayes text classifiers. In ICML (Vol. 3, pp. 616-623). https://people.csail.mit.edu/jrennie/papers/icml03-nb.pdf
+
+Anthropic. (2026). https://claude.ai
+
+DeepSeek. (2026). https://www.deepseek.com 
+
+Scikit-learn Developers. (n.d.). ComplementNB – scikit-learn 1.7.2 documentation. GitHub. Retrieved from  https://github.com/scikit-learn/scikit-learn/blob/fe2edb3cd/sklearn/naive_bayes.py#L939
+
+Sharma, N. (2023, June 10). Understanding and Applying F1 Score: AI Evaluation Essentials with Hands-On Coding Example. Arize AI. https://arize.com/blog-course/f1-score/ 
+
+Shrestha, S. (2025, June 9). A simple understanding of stopwords in NLP. Medium. https://medium.com/@shishiradhikari444/a-simple-understanding-of-stopwords-in-nlp-dd24e36fd228
+
+
